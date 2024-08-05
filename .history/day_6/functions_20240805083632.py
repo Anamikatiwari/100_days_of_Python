@@ -1,0 +1,3 @@
+# print function
+print("Hello")
+
