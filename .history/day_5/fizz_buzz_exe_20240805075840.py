@@ -1,0 +1,5 @@
+# wap that automatically prints the solution to the FizzBuzz game. 
+
+for number in range(1, 101):
+    if number % 3 == 0 and number % 5 == 0:
+        
