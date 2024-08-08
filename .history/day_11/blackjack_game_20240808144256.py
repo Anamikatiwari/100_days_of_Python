@@ -1,0 +1,3 @@
+""" 
+Our Blackjacks House Rules
+"""
