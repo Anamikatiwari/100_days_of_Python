@@ -1,0 +1,6 @@
+"""
+Inheritance
+--------------
+class Fish
+
+"""
