@@ -32,5 +32,4 @@ print(nemo.num_eyes) # accessing attribute from parent class
 
 # part 2 of snake game of day 21 is including in day 20
  # so we will include it here
-    # food.py 
-    # scoreboard.py 
+    # food.copy()
