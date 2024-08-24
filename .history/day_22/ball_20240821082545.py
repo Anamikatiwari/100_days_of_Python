@@ -14,4 +14,4 @@ class Ball(Turtle):
         self.goto(new_x, new_y)
 
 
-# vdo - 200, min - 3:54
+# vdo - 200, min 
