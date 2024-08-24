@@ -1,0 +1,1 @@
+#create a program using maths and f-string that teel
